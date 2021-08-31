@@ -1,0 +1,12 @@
+/*
+Theme Name: Ve sinh can tho
+Theme URI: http://nhdanh.com
+Description: Child Theme test
+Author: NHDANH
+Author URI: http://nhdanh.com
+Template: devdmbootstrap3
+Text Domain: vsct
+Version: 1.0
+*/
+@import url("../DevDmBootstrap3/style.html");
+.container h2 {font-size: 1em !important; color:green !important;} .container a {color:green !important;} .container p{text-align: justify !important;} .container ul{list-style-type:disc; margin-left:20px; text-align: justify !important;} .entry-tag .fa-tags{display:none;} .footer-info{display:none;} .dmbs-comments #comments{display:none;}
